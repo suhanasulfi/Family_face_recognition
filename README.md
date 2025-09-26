@@ -134,4 +134,4 @@ B.Tech Artificial Intelligence & Data Science
 
 ---
 
-Do you want me to also include a **ready-made evaluation script** (`evaluate.py`) that calculates precision, recall, and accuracy automatically for your validation dataset, so you can showcase real numbers in your README?
+
